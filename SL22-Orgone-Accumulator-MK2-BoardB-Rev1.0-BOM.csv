@@ -1,0 +1,41 @@
+SL22 Orgone Accumulator MK2 - BoardB - Rev1.0							
+							
+							
+Qty	RefDef	Value	Case	Mfr Part Number	Mouser Part Number	Manufacturer Name	Description
+1	R60	4.7R	1206	RC1206FR-7W4R7L	603-RC1206FR-7W4R7L	Yageo	Thick Film Resistors - SMD Thick Film Resistors - SMD
+2	R50, R52	10R	1206	AS12J10R0ET	588-AS12J10R0ET	Ohmite	Thick Film Resistors - SMD Thick Film Resistors - SMD 500mW 10 OHM 5% ANTI SURGE
+13	R21, R22, R23, R24, R29, R30, R31, R32, R33, R34, R43, R47, R48	100R	805	RC0805FR-07100RL	603-RC0805FR-07100RL	Yageo	Thick Film Resistors - SMD Thick Film Resistors - SMD 100 OHM 1%
+8	R35, R54, R55, R56, R57, R59, R67, R73	1K	805	RC0805FR-071KL	603-RC0805FR-071KL	Yageo	Thick Film Resistors - SMD Thick Film Resistors - SMD 1K OHM 1%
+1	R41	1.2K	805	RC0805FR-071K2L	603-RC0805FR-071K2L	Yageo	Thick Film Resistors - SMD Thick Film Resistors - SMD 1.2K OHM 1%
+1	R40	1.8K	805	RC0805FR-071K8L	603-RC0805FR-071K8L	Yageo	Thick Film Resistors - SMD Thick Film Resistors - SMD 1.8K OHM 1%
+1	R38	3K	805	ESR10EZPF3001	755-ESR10EZPF3001	ROHM Semiconductor	Thick Film Resistors - SMD Thick Film Resistors - SMD 0805 3Kohm 1% Anti Surge AEC-Q200
+1	R42	3.3K	805	 AC0805FR-073K3L 	603-AC0805FR-073K3L	Yageo	Thick Film Resistors - SMD 1/8W 3.3K ohm 1% AEC-Q200 
+2	R37, R51	3.9K	805	AC0805FR-073K9L	603-AC0805FR-073K9L	Yageo	Thick Film Resistors - SMD Thick Film Resistors - SMD 1/8W 3.9K ohm 1% AEC-Q200
+1	R39	6.8K	805	RC0805FR-076K8L	603-RC0805FR-076K8L	Yageo	Thick Film Resistors - SMD Thick Film Resistors - SMD 6.8K OHM 1%
+2	R45, R49	10K	805	RC0805FR-0710KL	603-RC0805FR-0710KL	Yageo	Thick Film Resistors - SMD Thick Film Resistors - SMD 10K OHM 1%
+1	R17	12K	805	RC0805FR-0712KL	603-RC0805FR-0712KL	Yageo	Thick Film Resistors - SMD Thick Film Resistors - SMD 12K OHM 1%
+1	R20	20K	805	RC0805FR-0720KL	603-RC0805FR-0720KL	Yageo	Thick Film Resistors - SMD Thick Film Resistors - SMD 20K OHM 1%
+1	R18	30K	805	RC0805FR-0730KL	603-RC0805FR-0730KL	Yageo	Thick Film Resistors - SMD Thick Film Resistors - SMD 30K OHM 1%
+5	R13, R14, R15, R16, R46	33K	805	RC0805FR-1333KL	603-RC0805FR-1333KL	Yageo	Thick Film Resistors - SMD Thick Film Resistors - SMD 33K OHM 1%
+4	R19, R26, R64, R70	49.9K	805	RC0805FR-0749K9L	603-RC0805FR-0749K9L	Yageo	Thick Film Resistors - SMD Thick Film Resistors - SMD 49.9K OHM 1%
+25	R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R25, R27, R36, R44, R61, R62, R63, R65, R68, R69, R71, R74, R75	100K	805	RC0805FR-07100KL	603-RC0805FR-07100KL	Yageo	Thick Film Resistors - SMD Thick Film Resistors - SMD 100K OHM 1%
+4	R28, R58, R66, R72	150K	805	RC0805FR-07150KL	603-RC0805FR-07150KL	Yageo	Thick Film Resistors - SMD Thick Film Resistors - SMD 150K OHM 1%
+21	C3, C4, C5, C6, C7, C8, C9, C10, C11, C12, C13, C14, C15, C16, C17, C19, C21, C22, C27, C30, C32	1000pF	805	VJ0805A102GXACW1BC	77-VJ0805A102GXACBC	Vishay	Multilayer Ceramic Capacitors MLCC - SMD/SMT Multilayer Ceramic Capacitors MLCC - SMD/SMT 0805 1000pF 50volts C0G 2%
+1	C18	3300pF	805	VJ0805A332JXATW1BC	77-VJ0805A332JXATBC	Vishay	Multilayer Ceramic Capacitors MLCC - SMD/SMT Multilayer Ceramic Capacitors MLCC - SMD/SMT 0805 3300pF 50volts C0G 5%
+1	C20	0.018uF	805	VJ0805Y183KXACW1BC	77-VJ0805Y183KXACBC	Vishay	Multilayer Ceramic Capacitors MLCC - SMD/SMT Multilayer Ceramic Capacitors MLCC - SMD/SMT 0805 0.018uF 50volts X7R 10%
+14	B1, B2, B3, B4, B5, B6, B7, B8, B9, B11, B14, B16, B17, B18	0.1uF	805	CC0805JRX7R8BB104 	603-CC805JRX7R8BB104 	Yageo	Multilayer Ceramic Capacitors MLCC - SMD/SMT Multilayer Ceramic Capacitors MLCC - SMD/SMT 0805 0.1uF 25volts X7R 5%
+2	C25, C29	2.2uF	805	UMK212BB7225KG-T	963-UMK212BB7225KG-T	Taiyo Yuden	Multilayer Ceramic Capacitors MLCC - SMD/SMT Multilayer Ceramic Capacitors MLCC - SMD/SMT 2.2uF 50V X7R +/-10% 0805 Gen Purp
+2	C23, C24	10uF	CAPAE-4.3x4.3h5.4	EEE-FK1E100R	667-EEE-FK1E100R	Panasonic	Aluminum Electrolytic Capacitors - SMD Aluminum Electrolytic Capacitors - SMD 10uF 25V
+1	C26	10uF	1206	TMK316BJ106ML-T	963-TMK316BJ106ML-T	Taiyo Yuden	Multilayer Ceramic Capacitors MLCC - SMD/SMT Multilayer Ceramic Capacitors MLCC - SMD/SMT 10uF 25V X5R +/-20% 1206 Gen Purp
+1	C2	47uF	CAPAE-5.3x5.3h6.1	EEE-FT1V470AR	667-EEE-FT1V470AR	Panasonic	Aluminum Electrolytic Capacitors - SMD Aluminum Electrolytic Capacitors - SMD 47uF 35volts 5x5.8mm SMD
+1	C1	100uF	CAPAE-6.6x6.6h3	EEE-1VA101XP	667-EEE-1VA101XP	Panasonic	Aluminum Electrolytic Capacitors - SMD Aluminum Electrolytic Capacitors - SMD 100uF 35V
+8	D5, D6, D8, D9, D10, D11, D12, D13	BAT42	SOD-123 	BAT42W-7-F	621-BAT42W-F	Diodes Incorporated	Schottky Diodes & Rectifiers Schottky Diodes & Rectifiers 30V 200mW
+1	D7	MB1S	SOIC-4 	MB1S	512-MB1S	ON Semiconductor	Bridge Rectifiers Bridge Rectifiers 0.5A Bridge
+1	IC6	LM1117-5.0V	TO-252-3 	LM1117DTX-5.0/NOPB	926-LM1117DTX50NOPB	Texas Instruments	LDO Voltage Regulators LDO Voltage Regulators 800mA LDO Linear Reg
+1	L3	Ferrite 2K	1210	FBMH3225HM202NT	963-FBMH3225HM202NT	Taiyo Yuden	Ferrite Beads Ferrite Beads HI CUR CHIP BD 1210 2000OHMS 30%
+1	Q6	MMBT3904	SOT-23-3	MMBT3904-7-F	621-MMBT3904-F	Diodes Incorporated	Bipolar Transistors - BJT Bipolar Transistors - BJT 40V NPN SS Trans 60Vceo 6Vebo 200mA
+1	U7	ADP150 3.0V	SOT-23-5	ADP150AUJZ-3.0-R7	584-ADP150AUJZ-3.0R7	Analog Devices Inc.	Linear Voltage Regulators Linear Voltage Regulators Ultralow Noise 150mA CMOS
+1	U8	MCP6002	SOIC-8	MCP6002T-I/SN	579-MCP6002T-I/SN	Microchip	Operational Amplifiers - Op Amps Operational Amplifiers - Op Amps Dual 1.8V 1MHz
+1	U2	MCP6004	SOIC-14 	MCP6004-I/SL	579-MCP6004-I/SL	Microchip	Operational Amplifiers - Op Amps Operational Amplifiers - Op Amps Quad 1.8V 1MHz
+2	U3, U9	TL072	SOIC-8	TL072CD	595-TL072CD	Texas Instruments	Operational Amplifiers - Op Amps Operational Amplifiers - Op Amps JFET Input Low N
+3	U1, U10, U11	TL074	SOIC-14 	TL074CD	595-TL074CD	Texas Instruments	Operational Amplifiers - Op Amps Operational Amplifiers - Op Amps Low Noise JFET Input
